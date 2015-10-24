@@ -1,9 +1,8 @@
-html, 
+html,
 body {
     margin: 0;
     padding: 0;
     background-color: #487C82;
-  
 }
 
 .header-content {
@@ -21,7 +20,7 @@ body {
 .body-content {
     background-color: #fff;
     padding: 1em;
-  min-width: 300px;
+    min-width: 300px;
 }
 
 .footer-content {
@@ -130,9 +129,9 @@ body {
     margin-bottom: 8em;
     /* margin-top = hoogte sticky-header */
     margin-top: 7em;
-    /* z-index werkt enkel bij elementen met 
+    /* z-index werkt enkel bij elementen met
     position: relative | absolute | fixed */
-    position: relative; 
+    position: relative;
     /* lagere z-index want ligt onder sticky header */
     z-index: 2;
     font-family: "avenir", sans-serif;
@@ -152,7 +151,6 @@ body {
     padding: 2em;
     margin-right: -1em;
     margin-left: -1em;
-   
 }
 
 
@@ -162,7 +160,7 @@ div[class="Photo"] {
 
 div[class="Photo"] img {
     max-width: 100%;
-    height: auto; 
+    height: auto;
     display: block;
     margin: 0 auto;
     /*box-shadow: 1px 1px 10px #18383A;*/
@@ -176,8 +174,8 @@ div[class="Photo"] img {
     padding-right: 1em;
     padding-top: 0.5em;
     text-decoration: none;
-  
-  
+
+
 }
 
 .label__content3 {
@@ -227,7 +225,7 @@ div[class="Photo"] img {
     padding-top: 0.5em;
     text-decoration: none;
 
-  
+
 }
 
 .label__content4 {
@@ -245,7 +243,7 @@ div[class="Photo"] img {
     font-family: "avenir", sans-serif;
     font-size: 1em;
     margin: -4em;
-  
+
 
 }
 
@@ -278,7 +276,7 @@ p {
   color: #FFF;
   font-style: italic;
   text-shadow: 2px 2px 5px #18383A;
-  width: 100%; 
+  width: 100%;
 }
 
 
@@ -288,14 +286,14 @@ p {
     text-align: center;
     padding-top: 1em;
     font-size: 1.3em;
-  
+
 }
 
 .center3 {
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
-    padding-top: 1em;  
+    padding-top: 1em;
 }
 
 /* Peak-a-boo Footer Styles */
@@ -329,12 +327,12 @@ li2 {
      .polygons__col {
          width: 50%;
      }
-    
+
     .polygons__col:nth-child(3n + 1) {
         margin-left: 25%;
         margin-right: 25%;
     }
-    
+
     .polygons__col:nth-child(n + 2) .polygon {
         margin-top: calc(-50% + .5rem);
     }
@@ -344,12 +342,12 @@ li2 {
     .polygons__col {
         width: 25%;
     }
-    
+
     .polygons__col:nth-child(3n + 1) {
         margin-right: 0;
         margin-left: 0;
     }
-    
+
     .polygons__col:nth-child(1) {
         margin-left: 12.5%;
     }

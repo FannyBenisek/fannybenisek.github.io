@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="310.417px" height="307.292px" viewBox="0 0 310.417 307.292" enable-background="new 0 0 310.417 307.292"
+	 xml:space="preserve">
+<rect x="-18.75" y="-12.5" fill="#EAC011" width="348.958" height="336.458"/>
+<polygon fill="#EACE75" points="155.16,46.245 155.16,152.958 247.625,206.348 247.625,99.657 "/>
+<polygon fill="#C9AE59" points="155.16,153.033 62.64,206.45 62.64,206.564 155.105,259.98 247.681,206.564 247.681,206.45 "/>
+<polygon fill="#B79C48" points="62.587,99.792 62.587,206.482 62.632,206.509 155.16,153.095 155.16,46.381 "/>
+<g opacity="0.75">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="62.186" y="45.649" width="186.047" height="214.768"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<polyline clip-path="url(#SVGID_2_)" fill="#FFD700" points="62.186,99.414 62.186,206.71 155.202,260.419 248.233,206.71 
+			248.233,99.414 155.208,45.649 62.186,99.351 62.186,99.468 		"/>
+	</g>
+</g>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="108.657,152.988 128.048,130.862 142.755,130.862 
+	119.599,157.11 140.588,179.82 124.984,179.82 108.657,161.691 "/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="146.248,132.65 139.384,140.932 159.288,156.264 
+	177.748,141.65 177.748,179.807 188.535,179.807 188.535,130.654 174.387,130.654 159.615,143.2 "/>
+<text transform="matrix(1 0 0 1.0309 141.2095 164.7451)" fill="#FFFFFF" font-family="'Futura-Condensed'" font-size="6.7602">INTERN</text>
+<text transform="matrix(1 0 0 1.0309 156.4341 164.7451)" fill="#FFFFFF" font-family="'Futura-Condensed'" font-size="6.7602">A</text>
+<text transform="matrix(1 0 0 1.0309 158.9888 164.7451)" fill="#FFFFFF" font-family="'Futura-Condensed'" font-size="6.7602">TIONAL</text>
+<text transform="matrix(1 0 0 1.0309 137.1743 171.7139)" fill="#FFFFFF" font-family="'Futura-Condensed'" font-size="6.7602">K-MUSIC </text>
+<text transform="matrix(1 0 0 1.0309 156.3999 171.7139)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Futura-Condensed'" font-size="6.7602">A</tspan><tspan x="2.69" y="0" fill="#FFFFFF" font-family="'Futura-Condensed'" font-size="6.7602">W</tspan></text>
+<text transform="matrix(1 0 0 1.0309 162.9722 171.7139)" fill="#FFFFFF" font-family="'Futura-Condensed'" font-size="6.7602">ARDS</text>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="192.231,147.865 192.231,130.654 233.82,179.81 
+	219.655,179.81 208.196,166.81 192.121,179.81 192.121,166.66 200.962,158.539 "/>
+<rect x="94.101" y="141.539" fill="#FFFFFF" width="10.788" height="38.281"/>
+<rect x="94.101" y="130.654" fill="#FFFFFF" width="10.788" height="7.893"/>
+</svg>
