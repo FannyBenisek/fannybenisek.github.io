@@ -3,6 +3,9 @@ body {
     margin: 0;
     padding: 0;
     background-color: #487C82;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }
 
 .header-content {
@@ -306,16 +309,6 @@ p {
     z-index: 1;
     background-color: #487C82;
 
-}
-
-
-ul2 {
-    list-style-type: none;
-    display: inline-block;
-}
-
-li2 {
-    text-shadow: 2px 2px 5px #18383A;
 }
 
 /* polygon */
